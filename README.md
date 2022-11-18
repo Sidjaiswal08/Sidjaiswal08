@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sidjaiswal08
+- 👋 Hi, I’m @Siddhant Jaiswal
 - 👀 I’m interested in Data Analyst / Business Analyst
 - 🌱 I’m currently learning Certified Data Science Program from BSE Institute Ltd
 - 📫 How to reach me - sidjaiswal8793@gmail.com
